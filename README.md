@@ -28,7 +28,6 @@ Walmart seeks to analyze customer purchase behavior during Black Friday sales to
 # Milestones
  - Load and inspect dataset
  - Check data quality — identify missing values and outliers
- - Exploring the distribution for purchase data
  - Analyze group wise spending - sum, mean, median
  - Estimating Confidence Intervals - Finding the overlaps
  - Exploring the strength and direction of relationship among the attributes using Correlation in Heatmap
