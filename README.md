@@ -52,7 +52,7 @@ Walmart seeks to analyze customer purchase behavior during Black Friday sales to
   - There is no significant evidence to conclude mean purchase by married and unmarried buyers are different.
   - At least one age group has a significantly different Mean Purchase
 
-# Recommendation
+# Recommendations
  - Target Male Customers with Premium or High-Value Product (Product Category) Offerings as male buyers have spent highest from total, mean and median stand point
  - Develop Strategies to Increase Female Buyer Engagement like targeted discounts etc.
  - Promote Product categories with higher product price
