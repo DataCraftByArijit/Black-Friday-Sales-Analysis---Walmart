@@ -34,7 +34,8 @@ Walmart seeks to analyze customer purchase behavior during Black Friday sales to
  - Exploring the strength and direction of relationship among the attributes using Correlation in Heatmap
  - Use CLT to draw assumptions on sample distributions
  - Findings and inferences
-   (Please refer to Python code file)
+ - Recommendations
+(Please refer to Python code file)
 
 # Findings
   - As per CLT, the Smaple Ditribution follows Gaussian regardless of the population as the sample size for both the samples are much bigger than 30
